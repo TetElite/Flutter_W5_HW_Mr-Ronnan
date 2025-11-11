@@ -10,11 +10,11 @@ void main() {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              HobbyCard(color: Color.fromARGB(255, 37, 197, 58), icon: Icons.star, label: "Traveling"),
+              HobbyCard(color: Color.fromARGB(255, 37, 197, 58), icon: Icons.travel_explore, label: "Traveling"),
               SizedBox(height: 10),
               HobbyCard(color: Color.fromARGB(255, 21, 69, 140), icon: Icons.skateboarding, label: "Skating"),
               SizedBox(height: 10),
-              HobbyCard(color: Color.fromARGB(255, 140, 40, 40), icon: Icons.music_note, label: "Music"),
+              HobbyCard( icon: Icons.music_note, label: "Music"),
           ],
         ),
       ),
@@ -24,7 +24,7 @@ void main() {
 
 class HobbyCard extends StatelessWidget {
   const HobbyCard({
-    required this.color,
+    this.color = Colors.blue,
     required this.icon,
     required this.label,
     super.key,
@@ -52,6 +52,6 @@ class HobbyCard extends StatelessWidget {
         ],
       ),
     ),
-                );
+    );
   }
 }
