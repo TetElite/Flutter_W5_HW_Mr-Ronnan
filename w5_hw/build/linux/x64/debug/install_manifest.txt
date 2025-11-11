@@ -10,6 +10,4 @@
 /home/tet-elite/Desktop/CADT/Y3T1/Flutter_MR-ronnan/W5_HW/w5_hw/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
 /home/tet-elite/Desktop/CADT/Y3T1/Flutter_MR-ronnan/W5_HW/w5_hw/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
 /home/tet-elite/Desktop/CADT/Y3T1/Flutter_MR-ronnan/W5_HW/w5_hw/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
-/home/tet-elite/Desktop/CADT/Y3T1/Flutter_MR-ronnan/W5_HW/w5_hw/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
-/home/tet-elite/Desktop/CADT/Y3T1/Flutter_MR-ronnan/W5_HW/w5_hw/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
 /home/tet-elite/Desktop/CADT/Y3T1/Flutter_MR-ronnan/W5_HW/w5_hw/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
